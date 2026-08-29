@@ -1,0 +1,38 @@
+target_date,actual_date,gap_days,status,tiff_path
+2024-01-01,2024-01-03,2.0,VALID,"['/content/drive/MyDrive/hab_early_warning_sentinel/2024-01-03 (1).tif', '/content/drive/MyDrive/hab_early_warning_sentinel/2024-01-03.tif']"
+2024-01-11,2024-01-11,0.0,VALID,['/content/drive/MyDrive/hab_early_warning_sentinel/2024-01-11.tif']
+2024-01-21,2024-01-21,0.0,VALID,"['/content/drive/MyDrive/hab_early_warning_sentinel/2024-01-21 (1).tif', '/content/drive/MyDrive/hab_early_warning_sentinel/2024-01-21.tif']"
+2024-01-31,2024-01-31,0.0,VALID,"['/content/drive/MyDrive/hab_early_warning_sentinel/2024-01-31 (1).tif', '/content/drive/MyDrive/hab_early_warning_sentinel/2024-01-31.tif']"
+2024-02-10,2024-02-10,0.0,VALID,['/content/drive/MyDrive/hab_early_warning_sentinel/2024-02-10.tif']
+2024-02-20,2024-02-20,0.0,VALID,"['/content/drive/MyDrive/hab_early_warning_sentinel/2024-02-20 (1).tif', '/content/drive/MyDrive/hab_early_warning_sentinel/2024-02-20.tif']"
+2024-03-01,2024-03-03,2.0,VALID,"['/content/drive/MyDrive/hab_early_warning_sentinel/2024-03-03 (1).tif', '/content/drive/MyDrive/hab_early_warning_sentinel/2024-03-03.tif']"
+2024-03-11,2024-03-11,0.0,VALID,"['/content/drive/MyDrive/hab_early_warning_sentinel/2024-03-11 (1).tif', '/content/drive/MyDrive/hab_early_warning_sentinel/2024-03-11.tif']"
+2024-03-21,2024-03-21,0.0,VALID,"['/content/drive/MyDrive/hab_early_warning_sentinel/2024-03-21 (1).tif', '/content/drive/MyDrive/hab_early_warning_sentinel/2024-03-21.tif']"
+2024-03-31,2024-03-26,5.0,VALID,['/content/drive/MyDrive/hab_early_warning_sentinel/2024-03-26.tif']
+2024-04-10,,,MISSING,
+2024-04-20,2024-04-25,5.0,VALID,['/content/drive/MyDrive/hab_early_warning_sentinel/2024-04-25.tif']
+2024-04-30,2024-04-27,3.0,VALID,['/content/drive/MyDrive/hab_early_warning_sentinel/2024-04-27.tif']
+2024-05-10,2024-05-07,3.0,VALID,"['/content/drive/MyDrive/hab_early_warning_sentinel/2024-05-07 (1).tif', '/content/drive/MyDrive/hab_early_warning_sentinel/2024-05-07.tif']"
+2024-05-20,2024-05-15,5.0,VALID,['/content/drive/MyDrive/hab_early_warning_sentinel/2024-05-15.tif']
+2024-05-30,,,MISSING,
+2024-06-09,,,MISSING,
+2024-06-19,,,MISSING,
+2024-06-29,,,MISSING,
+2024-07-09,,,MISSING,
+2024-07-19,,,MISSING,
+2024-07-29,,,MISSING,
+2024-08-08,,,MISSING,
+2024-08-18,,,MISSING,
+2024-08-28,,,MISSING,
+2024-09-07,,,MISSING,
+2024-09-17,,,MISSING,
+2024-09-27,,,MISSING,
+2024-10-07,,,MISSING,
+2024-10-17,,,MISSING,
+2024-10-27,,,MISSING,
+2024-11-06,2024-11-03,3.0,VALID,['/content/drive/MyDrive/hab_early_warning_sentinel/2024-11-03.tif']
+2024-11-16,,,MISSING,
+2024-11-26,,,MISSING,
+2024-12-06,2024-12-06,0.0,VALID,"['/content/drive/MyDrive/hab_early_warning_sentinel/2024-12-06 (1).tif', '/content/drive/MyDrive/hab_early_warning_sentinel/2024-12-06.tif']"
+2024-12-16,2024-12-16,0.0,VALID,"['/content/drive/MyDrive/hab_early_warning_sentinel/2024-12-16 (3).tif', '/content/drive/MyDrive/hab_early_warning_sentinel/2024-12-16 (2).tif', '/content/drive/MyDrive/hab_early_warning_sentinel/2024-12-16 (1).tif', '/content/drive/MyDrive/hab_early_warning_sentinel/2024-12-16.tif']"
+2024-12-26,2024-12-26,0.0,VALID,"['/content/drive/MyDrive/hab_early_warning_sentinel/2024-12-26 (1).tif', '/content/drive/MyDrive/hab_early_warning_sentinel/2024-12-26.tif']"
