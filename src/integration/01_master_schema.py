@@ -2,7 +2,7 @@
 import pandas as pd
 
 
-SATELLITE_FILE = "data/sentinel2/processed/sentinel_index.csv"
+SATELLITE_FILE = "data/sentinel2/sentinel_index.csv"
 ENVIRONMENT_FILE = "data/environmental/processed/environmental_dataset.csv"
 
 EXPECTED_SATELLITE_COLUMNS = [

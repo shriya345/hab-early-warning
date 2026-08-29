@@ -21,3 +21,6 @@ __pycache__/
 
 # OS/editor
 .DS_Store
+# Local/generated Sentinel-2 files
+data/sentinel2/processed
+/sentinel_index.csv

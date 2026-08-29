@@ -24,7 +24,7 @@ They are not scientific project results.
 Real project inputs will later be supplied as:
 
 ### Satellite
-`data/sentinel2/processed/sentinel_index.csv`
+`data/sentinel2/sentinel_index.csv`
 
 Columns:
 
