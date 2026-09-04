@@ -24,3 +24,7 @@ __pycache__/
 # Local/generated Sentinel-2 files
 data/sentinel2/processed
 /sentinel_index.csv
+
+# Frontend dependencies / build output
+frontend/node_modules/
+frontend/dist/
