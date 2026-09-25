@@ -1,4 +1,4 @@
-# ALGAEWATCH — Karnataka Lake Early Warning System
+# ALGAEWATCH — Lake Early Warning System
 
 Research prototype for Karnataka-wide water-body discovery and HAB early warning.
 The available CNN/LSTM was trained only on Vembanad Lake in Kerala and is not
