@@ -1,8 +1,8 @@
 # Hosted AlgaeWatch
 
 The React frontend deploys to Vercel. The FastAPI backend and existing TensorFlow
-models deploy to Railway using the root Dockerfile. Both services use the
-repository root, not the frontend directory, as their project root.
+models deploy to Railway using the root Dockerfile. Railway uses the repository
+root; Vercel uses `frontend` as its project root.
 
 ## Railway backend
 
@@ -21,8 +21,8 @@ does not verify model inference or external source availability.
 
 ## Vercel frontend
 
-Import the same repository with the root directory left at the repository root.
-`vercel.json` installs and builds the frontend and serves `frontend/dist`.
+Import the same repository with its root directory set to `frontend`.
+`frontend/vercel.json` installs and builds the frontend and serves `dist`.
 Set `VITE_API_BASE_URL` to the Railway HTTPS origin (without `/api`). It is public
 configuration, not a secret. Redeploy after changing it because Vite embeds it
 at build time. Local development defaults to the existing `/api` proxy.
