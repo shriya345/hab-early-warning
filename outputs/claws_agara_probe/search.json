@@ -1,0 +1,185 @@
+{
+  "success": true,
+  "results": [
+    {
+      "wb_uid": "1600.00000000",
+      "name": "Abbenahalli Kere",
+      "village": "Kambipura",
+      "district": "Kolar",
+      "longitude": 77.94066379699953,
+      "latitude": 13.051451522405257,
+      "sml": 1
+    },
+    {
+      "wb_uid": "745.000000000",
+      "name": "Agara Lake",
+      "village": "Venkoji Rao Kere (BBMP)",
+      "district": "Bengaluru Urban",
+      "longitude": 77.64147870096464,
+      "latitude": 12.920892352732325,
+      "sml": 1
+    },
+    {
+      "wb_uid": "3468.00000000",
+      "name": "Amani Gopalakrishna Kere",
+      "village": "Hosahudya",
+      "district": "Chikkaballapura",
+      "longitude": 77.79844773539949,
+      "latitude": 13.413325709718384,
+      "sml": 1
+    },
+    {
+      "wb_uid": "2756.00000000",
+      "name": "Amaniulli Amani Kere",
+      "village": "Mulli Amanikere",
+      "district": "Bengaluru Rural",
+      "longitude": 77.66193756751643,
+      "latitude": 13.241599073432965,
+      "sml": 1
+    },
+    {
+      "wb_uid": "3470.00000000",
+      "name": "Ammana Kere",
+      "village": "Varadanayakanahalli",
+      "district": "Chikkaballapura",
+      "longitude": 77.84584088573976,
+      "latitude": 13.403842523085023,
+      "sml": 1
+    },
+    {
+      "wb_uid": "1227.00000000",
+      "name": "Andakkana Kere",
+      "village": "Samethanahalli",
+      "district": "Bengaluru Rural",
+      "longitude": 77.80023347515852,
+      "latitude": 12.985892445740483,
+      "sml": 1
+    },
+    {
+      "wb_uid": "2733.00000000",
+      "name": "Aradeshanahalli Kere",
+      "village": "Kasuvanahalli",
+      "district": "Bengaluru Rural",
+      "longitude": 77.57042526640066,
+      "latitude": 13.233329304142272,
+      "sml": 1
+    },
+    {
+      "wb_uid": "978.000000000",
+      "name": "Arsi Kere",
+      "village": "Huladenahalli",
+      "district": "Kolar",
+      "longitude": 78.04428621536448,
+      "latitude": 12.942686498415583,
+      "sml": 1
+    },
+    {
+      "wb_uid": "3221.00000000",
+      "name": "Badna Kere",
+      "village": "Hosahalli",
+      "district": "Chikkaballapura",
+      "longitude": 77.82985297214076,
+      "latitude": 13.298165209909275,
+      "sml": 1
+    },
+    {
+      "wb_uid": "1994.00000000",
+      "name": "Bagaluru Kere",
+      "village": "Hosahalli (BBMP)",
+      "district": "Bengaluru Urban",
+      "longitude": 77.65563546201778,
+      "latitude": 13.140006283777412,
+      "sml": 1
+    },
+    {
+      "wb_uid": "2314.00000000",
+      "name": "Bandikodigenahalli Amani Kere",
+      "village": "Bandikodigehalli Amanikere (BBMP)",
+      "district": "Bengaluru Urban",
+      "longitude": 77.683990414836,
+      "latitude": 13.1773914161081,
+      "sml": 1
+    },
+    {
+      "wb_uid": "3548.00000000",
+      "name": "Baraguru Kere",
+      "village": "Arasanahalli",
+      "district": "Kolar",
+      "longitude": 77.89214447316566,
+      "latitude": 12.961574847518879,
+      "sml": 1
+    },
+    {
+      "wb_uid": "1372.00000000",
+      "name": "Basavanapura Kere",
+      "village": "Basavanapura (BBMP)",
+      "district": "Bengaluru Urban",
+      "longitude": 77.71314139374432,
+      "latitude": 13.010090866725182,
+      "sml": 1
+    },
+    {
+      "wb_uid": "2003.00000000",
+      "name": "Begur Kere",
+      "village": "Begur",
+      "district": "Bengaluru Rural",
+      "longitude": 77.84833915857944,
+      "latitude": 13.14058127830081,
+      "sml": 1
+    },
+    {
+      "wb_uid": "800.000000000",
+      "name": "Belli Kere",
+      "village": "Bellikere",
+      "district": "Bengaluru Rural",
+      "longitude": 77.79996157274674,
+      "latitude": 12.928490138757743,
+      "sml": 1
+    },
+    {
+      "wb_uid": "3394.00000000",
+      "name": "Bellutti Kere",
+      "village": "Hithalahalli",
+      "district": "Chikkaballapura",
+      "longitude": 77.84797427146917,
+      "latitude": 13.367354129844331,
+      "sml": 1
+    },
+    {
+      "wb_uid": "2612.00000000",
+      "name": "Bettakote Amani Kere",
+      "village": "Anneswara",
+      "district": "Bengaluru Rural",
+      "longitude": 77.72511910819301,
+      "latitude": 13.213074962769166,
+      "sml": 1
+    },
+    {
+      "wb_uid": "2833.00000000",
+      "name": "Bhairandanahalli Kere",
+      "village": "Kadagattur",
+      "district": "Kolar",
+      "longitude": 77.99449655927839,
+      "latitude": 13.24292710815565,
+      "sml": 1
+    },
+    {
+      "wb_uid": "2067.00000000",
+      "name": "Bhairasandra-Bellur Kere",
+      "village": "Bellur",
+      "district": "Kolar",
+      "longitude": 77.98206640727065,
+      "latitude": 13.14745216756111,
+      "sml": 1
+    },
+    {
+      "wb_uid": "1450.00000000",
+      "name": "Bhattrahalli Kere",
+      "village": "K.g.bhattarahalli (BBMP)",
+      "district": "Bengaluru Urban",
+      "longitude": 77.7090418032901,
+      "latitude": 13.024463570297607,
+      "sml": 1
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+kgis_id,lake_name,feature_date,scene_id,band_order,valid_four_band_polygon_pixels,scl_water_pixels,scl_water_fraction,rainfall_dates,wind_dates,chlorophyll_dates,lswt_dates,model_ready
+KA20010018,Ulsoor Lake,2025-02-16,S2B_T43PGQ_20250216T052111_L2A,B2/B3/B4/B8,4178,3551,0.8499,2025-02-10..2025-02-21,2025-02-10..2025-02-21,not_obtained,not_obtained,false
+KA20020207,Bellandur Lake,2025-02-16,S2B_T43PGQ_20250216T052111_L2A,B2/B3/B4/B8,35236,6045,0.1715,2025-02-10..2025-02-21,2025-02-10..2025-02-21,not_obtained,not_obtained,false
+KA20020235,Chikkegowdanapalya Lake,2025-02-16,S2B_T43PGQ_20250216T052111_L2A,B2/B3/B4/B8,45,0,0.0,2025-02-10..2025-02-21,2025-02-10..2025-02-21,not_obtained,not_obtained,false
+KA20020236,Gattigere Palya (Sompura) Lake,2025-02-16,S2B_T43PGQ_20250216T052111_L2A,B2/B3/B4/B8,20,0,0.0,2025-02-10..2025-02-21,2025-02-10..2025-02-21,not_obtained,not_obtained,false
+KA20040088,Varthur Lake,2025-02-16,S2B_T43PGQ_20250216T052111_L2A,B2/B3/B4/B8,17888,1741,0.0973,2025-02-10..2025-02-21,2025-02-10..2025-02-21,not_obtained,not_obtained,false
+KA20050107,Srinivasapura Lake,2025-02-16,S2B_T43PGQ_20250216T052111_L2A,B2/B3/B4/B8,94,0,0.0,2025-02-10..2025-02-21,2025-02-10..2025-02-21,not_obtained,not_obtained,false
+KA20050109,Bettahalli lake,2025-02-16,S2B_T43PGQ_20250216T052111_L2A,B2/B3/B4/B8,47,0,0.0,2025-02-10..2025-02-21,2025-02-10..2025-02-21,not_obtained,not_obtained,false
+KA26040001,Kukkarahalli Lake,2025-02-19,S2B_T43PFP_20250219T053443_L2A,B2/B3/B4/B8,6007,3725,0.6201,2025-02-13..2025-02-24,2025-02-13..2025-02-24,not_obtained,not_obtained,false
+KA26040054,Karanjikere,2025-02-19,S2B_T43PFP_20250219T053443_L2A,B2/B3/B4/B8,2281,316,0.1385,2025-02-13..2025-02-24,2025-02-13..2025-02-24,not_obtained,not_obtained,false

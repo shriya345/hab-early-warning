@@ -1,0 +1,16 @@
+{
+  "retrieved_at_utc": "2026-09-25T22:24:35.275171+00:00",
+  "lake": "Agara Lake",
+  "claws_wb_uid": 745,
+  "source": "https://lakewatch.chanakyauniversity.edu.in/",
+  "detail_url": "https://lakewatch.chanakyauniversity.edu.in/api/analytics/year-detail?wb_uid=745&year=2025&stat=mean",
+  "cadence": "two composites per month; composite keys 1 and 16",
+  "chlorophyll_units": "UI labels mg/m\u00b3; API lacks units; definition and calibration unverified",
+  "model_ready": false,
+  "blockers": [
+    "No daily chlorophyll sequence",
+    "No lake surface temperature in returned products",
+    "No validated cross-lake model applicability",
+    "Chlorophyll definition and units require verification"
+  ]
+}

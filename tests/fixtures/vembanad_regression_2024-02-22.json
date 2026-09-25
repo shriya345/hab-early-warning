@@ -1,0 +1,13 @@
+{
+  "target_date": "2024-02-22",
+  "environmental_window_start": "2024-02-16",
+  "environmental_window_end": "2024-02-22",
+  "expected": {
+    "cnn_probability": 0.30116572976112366,
+    "lstm_probability": 0.48389932513237,
+    "bloom_risk_probability": 0.3925325274467468,
+    "bloom_risk_percent": 39.25325274467468,
+    "forecast_horizon_days": 5
+  },
+  "tolerance": 0.00001
+}

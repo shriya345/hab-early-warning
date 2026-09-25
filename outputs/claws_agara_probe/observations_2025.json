@@ -1,0 +1,801 @@
+{
+  "success": true,
+  "wb_uid": 745,
+  "year": 2025,
+  "labels": [
+    "Jan-1",
+    "Jan-2",
+    "Feb-1",
+    "Feb-2",
+    "Mar-1",
+    "Mar-2",
+    "Apr-1",
+    "Apr-2",
+    "May-1",
+    "May-2",
+    "Jun-1",
+    "Jun-2",
+    "Jul-1",
+    "Jul-2",
+    "Aug-1",
+    "Aug-2",
+    "Sep-1",
+    "Sep-2",
+    "Oct-1",
+    "Oct-2",
+    "Nov-1",
+    "Nov-2",
+    "Dec-1",
+    "Dec-2"
+  ],
+  "observations": [
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 1,
+      "composite": 1,
+      "label": "Jan-1",
+      "value": 1.02915898390783,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 1,
+      "composite": 1,
+      "label": "Jan-1",
+      "value": 0.0675111843025576,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 1,
+      "composite": 1,
+      "label": "Jan-1",
+      "value": 0.236773218957235,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 1,
+      "composite": 1,
+      "label": "Jan-1",
+      "value": 0.172188975699688,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 1,
+      "composite": 16,
+      "label": "Jan-2",
+      "value": 0.968528452863928,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 1,
+      "composite": 16,
+      "label": "Jan-2",
+      "value": 0.0745792754121792,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 1,
+      "composite": 16,
+      "label": "Jan-2",
+      "value": 0.40308401399694,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 1,
+      "composite": 16,
+      "label": "Jan-2",
+      "value": 0.172796450062971,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 2,
+      "composite": 1,
+      "label": "Feb-1",
+      "value": 1.06702937608648,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 2,
+      "composite": 1,
+      "label": "Feb-1",
+      "value": 0.0828371001602734,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 2,
+      "composite": 1,
+      "label": "Feb-1",
+      "value": 0.246529822578008,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 2,
+      "composite": 1,
+      "label": "Feb-1",
+      "value": 0.248618909056653,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 2,
+      "composite": 16,
+      "label": "Feb-2",
+      "value": 1.0224549192262,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 2,
+      "composite": 16,
+      "label": "Feb-2",
+      "value": 0.094471553099308,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 2,
+      "composite": 16,
+      "label": "Feb-2",
+      "value": 0.214343531902535,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 2,
+      "composite": 16,
+      "label": "Feb-2",
+      "value": 0.315070235824968,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 3,
+      "composite": 1,
+      "label": "Mar-1",
+      "value": 1.00195105219931,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 3,
+      "composite": 1,
+      "label": "Mar-1",
+      "value": 0.10026336264884,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 3,
+      "composite": 1,
+      "label": "Mar-1",
+      "value": 0.160282677833777,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 3,
+      "composite": 1,
+      "label": "Mar-1",
+      "value": 0.22861731938389,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 3,
+      "composite": 16,
+      "label": "Mar-2",
+      "value": 0.912199329958837,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 3,
+      "composite": 16,
+      "label": "Mar-2",
+      "value": 0.0958780553521212,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 3,
+      "composite": 16,
+      "label": "Mar-2",
+      "value": 0.436164239664996,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 3,
+      "composite": 16,
+      "label": "Mar-2",
+      "value": 0.228780518969602,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 4,
+      "composite": 1,
+      "label": "Apr-1",
+      "value": 0.925860052659401,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 4,
+      "composite": 1,
+      "label": "Apr-1",
+      "value": 0.107278857020477,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 4,
+      "composite": 1,
+      "label": "Apr-1",
+      "value": 0.387398604823631,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 4,
+      "composite": 1,
+      "label": "Apr-1",
+      "value": 0.199608137236787,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 4,
+      "composite": 16,
+      "label": "Apr-2",
+      "value": 0.928788484812566,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 4,
+      "composite": 16,
+      "label": "Apr-2",
+      "value": 0.0997383689032703,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 4,
+      "composite": 16,
+      "label": "Apr-2",
+      "value": 0.64720741339792,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 4,
+      "composite": 16,
+      "label": "Apr-2",
+      "value": 0.147722232917203,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 5,
+      "composite": 1,
+      "label": "May-1",
+      "value": 1.08663330406978,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 5,
+      "composite": 1,
+      "label": "May-1",
+      "value": 0.101395000500241,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 5,
+      "composite": 1,
+      "label": "May-1",
+      "value": 0.370333435206578,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 5,
+      "composite": 1,
+      "label": "May-1",
+      "value": 0.205594049616792,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 5,
+      "composite": 16,
+      "label": "May-2",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 5,
+      "composite": 16,
+      "label": "May-2",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 5,
+      "composite": 16,
+      "label": "May-2",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 5,
+      "composite": 16,
+      "label": "May-2",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 6,
+      "composite": 1,
+      "label": "Jun-1",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 6,
+      "composite": 1,
+      "label": "Jun-1",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 6,
+      "composite": 1,
+      "label": "Jun-1",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 6,
+      "composite": 1,
+      "label": "Jun-1",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 6,
+      "composite": 16,
+      "label": "Jun-2",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 6,
+      "composite": 16,
+      "label": "Jun-2",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 6,
+      "composite": 16,
+      "label": "Jun-2",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 6,
+      "composite": 16,
+      "label": "Jun-2",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 7,
+      "composite": 1,
+      "label": "Jul-1",
+      "value": 0.975617975711863,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 7,
+      "composite": 1,
+      "label": "Jul-1",
+      "value": 0.315492391659806,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 7,
+      "composite": 1,
+      "label": "Jul-1",
+      "value": 1.0969741756194,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 7,
+      "composite": 1,
+      "label": "Jul-1",
+      "value": 0.222971558767048,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 7,
+      "composite": 16,
+      "label": "Jul-2",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 7,
+      "composite": 16,
+      "label": "Jul-2",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 7,
+      "composite": 16,
+      "label": "Jul-2",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 7,
+      "composite": 16,
+      "label": "Jul-2",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 8,
+      "composite": 1,
+      "label": "Aug-1",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 8,
+      "composite": 1,
+      "label": "Aug-1",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 8,
+      "composite": 1,
+      "label": "Aug-1",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 8,
+      "composite": 1,
+      "label": "Aug-1",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 8,
+      "composite": 16,
+      "label": "Aug-2",
+      "value": 0.897780764362086,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 8,
+      "composite": 16,
+      "label": "Aug-2",
+      "value": 0.0737981690883475,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 8,
+      "composite": 16,
+      "label": "Aug-2",
+      "value": 0.803325513782709,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 8,
+      "composite": 16,
+      "label": "Aug-2",
+      "value": 0.16398209106663,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 9,
+      "composite": 1,
+      "label": "Sep-1",
+      "value": 0.835117994777242,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 9,
+      "composite": 1,
+      "label": "Sep-1",
+      "value": 0.115015746623118,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 9,
+      "composite": 1,
+      "label": "Sep-1",
+      "value": 0.713219836648984,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 9,
+      "composite": 1,
+      "label": "Sep-1",
+      "value": 0.190731569712222,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 9,
+      "composite": 16,
+      "label": "Sep-2",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 9,
+      "composite": 16,
+      "label": "Sep-2",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 9,
+      "composite": 16,
+      "label": "Sep-2",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 9,
+      "composite": 16,
+      "label": "Sep-2",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 10,
+      "composite": 1,
+      "label": "Oct-1",
+      "value": 0.93834375287519,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 10,
+      "composite": 1,
+      "label": "Oct-1",
+      "value": 0.273678781428687,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 10,
+      "composite": 1,
+      "label": "Oct-1",
+      "value": 1.05953086399453,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 10,
+      "composite": 1,
+      "label": "Oct-1",
+      "value": 0.216694004686244,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 10,
+      "composite": 16,
+      "label": "Oct-2",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 10,
+      "composite": 16,
+      "label": "Oct-2",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 10,
+      "composite": 16,
+      "label": "Oct-2",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 10,
+      "composite": 16,
+      "label": "Oct-2",
+      "value": null,
+      "status": "NULL"
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 11,
+      "composite": 1,
+      "label": "Nov-1",
+      "value": 0.979360274248583,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 11,
+      "composite": 1,
+      "label": "Nov-1",
+      "value": 0.137931284493861,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 11,
+      "composite": 1,
+      "label": "Nov-1",
+      "value": 0.763401188808161,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 11,
+      "composite": 1,
+      "label": "Nov-1",
+      "value": 0.166778168358975,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 11,
+      "composite": 16,
+      "label": "Nov-2",
+      "value": 1.01628313977168,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 11,
+      "composite": 16,
+      "label": "Nov-2",
+      "value": 0.118713320352566,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 11,
+      "composite": 16,
+      "label": "Nov-2",
+      "value": 0.444688082732902,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 11,
+      "composite": 16,
+      "label": "Nov-2",
+      "value": 0.226342131473548,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 12,
+      "composite": 1,
+      "label": "Dec-1",
+      "value": 1.0843056061299,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 12,
+      "composite": 1,
+      "label": "Dec-1",
+      "value": 0.170123496210953,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 12,
+      "composite": 1,
+      "label": "Dec-1",
+      "value": 0.516240553259827,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 12,
+      "composite": 1,
+      "label": "Dec-1",
+      "value": 0.293105780369327,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "month": 12,
+      "composite": 16,
+      "label": "Dec-2",
+      "value": 1.00015102431087,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "month": 12,
+      "composite": 16,
+      "label": "Dec-2",
+      "value": 0.161433020930132,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "month": 12,
+      "composite": 16,
+      "label": "Dec-2",
+      "value": 0.829599563202834,
+      "status": "VALID"
+    },
+    {
+      "parameter": "Turbidity",
+      "month": 12,
+      "composite": 16,
+      "label": "Dec-2",
+      "value": 0.17518397599587,
+      "status": "VALID"
+    }
+  ]
+}

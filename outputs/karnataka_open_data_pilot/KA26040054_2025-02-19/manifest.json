@@ -1,0 +1,111 @@
+{
+  "status": "research_data_only_not_model_ready",
+  "kgis_id": "KA26040054",
+  "lake_name": "Karanjikere",
+  "kgis_source": "Karnataka GIS (K-GIS) Tank Ownership layer",
+  "scene_id": "S2B_T43PFP_20250219T053443_L2A",
+  "scene_datetime": "2025-02-19T05:35:37.162000Z",
+  "scene_footprint_cloud_percent": 9.8e-05,
+  "sentinel_source": "https://earth-search.aws.element84.com/v1/search",
+  "feature_date": "2025-02-19",
+  "five_day_target_date": "2025-02-24",
+  "raster": {
+    "raster_path": "outputs/karnataka_open_data_pilot/KA26040054_2025-02-19/sentinel2_B2_B3_B4_B8_raw_dn.tif",
+    "width": 66,
+    "height": 84,
+    "crs": "EPSG:32643",
+    "pixel_size_metres": [
+      10.0,
+      10.0
+    ],
+    "lake_polygon_pixel_count": 2281,
+    "valid_four_band_polygon_pixel_count": 2281,
+    "scene_classification_counts_inside_polygon": {
+      "2": 271,
+      "4": 970,
+      "5": 468,
+      "6": 316,
+      "7": 256
+    },
+    "band_order": [
+      "B2",
+      "B3",
+      "B4",
+      "B8"
+    ],
+    "bands": [
+      {
+        "band": "B2",
+        "asset": "https://e84-earth-search-sentinel-data.s3.us-west-2.amazonaws.com/sentinel-2-c1-l2a/43/P/FP/2025/2/S2B_T43PFP_20250219T053443_L2A/B02.tif",
+        "stac_scale": 0.0001,
+        "stac_offset": -0.1,
+        "valid_polygon_pixel_count": 2281,
+        "raw_dn_min": 1350,
+        "raw_dn_max": 1767
+      },
+      {
+        "band": "B3",
+        "asset": "https://e84-earth-search-sentinel-data.s3.us-west-2.amazonaws.com/sentinel-2-c1-l2a/43/P/FP/2025/2/S2B_T43PFP_20250219T053443_L2A/B03.tif",
+        "stac_scale": 0.0001,
+        "stac_offset": -0.1,
+        "valid_polygon_pixel_count": 2281,
+        "raw_dn_min": 1414,
+        "raw_dn_max": 2076
+      },
+      {
+        "band": "B4",
+        "asset": "https://e84-earth-search-sentinel-data.s3.us-west-2.amazonaws.com/sentinel-2-c1-l2a/43/P/FP/2025/2/S2B_T43PFP_20250219T053443_L2A/B04.tif",
+        "stac_scale": 0.0001,
+        "stac_offset": -0.1,
+        "valid_polygon_pixel_count": 2281,
+        "raw_dn_min": 1290,
+        "raw_dn_max": 1872
+      },
+      {
+        "band": "B8",
+        "asset": "https://e84-earth-search-sentinel-data.s3.us-west-2.amazonaws.com/sentinel-2-c1-l2a/43/P/FP/2025/2/S2B_T43PFP_20250219T053443_L2A/B08.tif",
+        "stac_scale": 0.0001,
+        "stac_offset": -0.1,
+        "valid_polygon_pixel_count": 2281,
+        "raw_dn_min": 1309,
+        "raw_dn_max": 5400
+      }
+    ],
+    "raw_dn_note": "STAC scale/offset metadata must be reviewed before any trained-model preprocessing; this raw COG crop is not a model input."
+  },
+  "weather": {
+    "weather_path": "outputs/karnataka_open_data_pilot/KA26040054_2025-02-19/historical_weather_era5.csv",
+    "source": "https://archive-api.open-meteo.com/v1/archive",
+    "model": "ERA5",
+    "dates": [
+      "2025-02-13",
+      "2025-02-14",
+      "2025-02-15",
+      "2025-02-16",
+      "2025-02-17",
+      "2025-02-18",
+      "2025-02-19",
+      "2025-02-20",
+      "2025-02-21",
+      "2025-02-22",
+      "2025-02-23",
+      "2025-02-24"
+    ],
+    "units": {
+      "time": "iso8601",
+      "rain_sum": "mm",
+      "precipitation_sum": "mm",
+      "wind_speed_10m_mean": "m/s",
+      "wind_speed_10m_max": "m/s"
+    },
+    "note": "Historical gridded weather; aggregation compatibility with the Vembanad model has not been verified."
+  },
+  "missing_for_training": [
+    "seven_daily_lake_chlorophyll_observations",
+    "seven_daily_lake_surface_temperature_observations",
+    "chlorophyll_observation_on_five_day_target",
+    "verified_training_compatible_weather_aggregation",
+    "raster_harmonization_against_training_archive"
+  ],
+  "prediction_allowed": false
+}

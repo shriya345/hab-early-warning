@@ -2,6 +2,7 @@
 data/sentinel2/raw/
 data/sentinel2/processed/*.tif
 data/environmental/raw/
+data/lakes/
 *.nc
 *.tif
 *.zip
@@ -28,3 +29,14 @@ data/sentinel2/processed
 # Frontend dependencies / build output
 frontend/node_modules/
 frontend/dist/
+
+# Deployment secrets and local state
+.env.*
+!.env.example
+.vercel/
+.venv/
+outputs/incois_kochi_live_cache.json
+# Curated archived inputs required by the hosted demonstration
+!data/sentinel2/processed/
+!data/sentinel2/processed/2024-02-22.tif
+!outputs/karnataka_open_data_pilot/*/sentinel2_B2_B3_B4_B8_raw_dn.tif

@@ -1,0 +1,8 @@
+.git
+.env
+.env.*
+**/__pycache__
+**/node_modules
+frontend/dist
+*.zip
+outputs/incois_kochi_live_cache.json

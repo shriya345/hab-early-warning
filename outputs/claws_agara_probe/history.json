@@ -1,0 +1,226 @@
+{
+  "success": true,
+  "wb_uid": 745,
+  "data": [
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "year": 2016,
+      "yearly_mean": 0.7497073013715869
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "year": 2017,
+      "yearly_mean": 1.04412725525843
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "year": 2018,
+      "yearly_mean": 1.6647282746034322
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "year": 2019,
+      "yearly_mean": 1.013024045299751
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "year": 2020,
+      "yearly_mean": 0.9986434479249007
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "year": 2021,
+      "yearly_mean": 0.9264726904671267
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "year": 2022,
+      "yearly_mean": 1.0034404642855979
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "year": 2023,
+      "yearly_mean": 0.9912775503268502
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "year": 2024,
+      "yearly_mean": 0.9408062394358206
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "year": 2025,
+      "yearly_mean": 0.9805626169395144
+    },
+    {
+      "parameter": "Chromophoric Dissolved Organic Matter",
+      "year": 2026,
+      "yearly_mean": 0.967895395041061
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "year": 2016,
+      "yearly_mean": -0.004727933244438979
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "year": 2017,
+      "yearly_mean": 0.0365699979043762
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "year": 2018,
+      "yearly_mean": 0.07434443021738565
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "year": 2019,
+      "yearly_mean": 0.08472016261499438
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "year": 2020,
+      "yearly_mean": 0.06409744583000279
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "year": 2021,
+      "yearly_mean": 0.040127400816914335
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "year": 2022,
+      "yearly_mean": 0.05320897503196061
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "year": 2023,
+      "yearly_mean": 0.0928265681690409
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "year": 2024,
+      "yearly_mean": 0.08177576041521191
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "year": 2025,
+      "yearly_mean": 0.12883170401098462
+    },
+    {
+      "parameter": "Maximum Chlorophyll-a",
+      "year": 2026,
+      "yearly_mean": 0.10981106741273891
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "year": 2016,
+      "yearly_mean": 0.5538538550674462
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "year": 2017,
+      "yearly_mean": 0.258355750374391
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "year": 2018,
+      "yearly_mean": 0.5192145807368028
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "year": 2019,
+      "yearly_mean": 0.9520141644315511
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "year": 2020,
+      "yearly_mean": 0.7674524246540129
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "year": 2021,
+      "yearly_mean": 0.4123050201175
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "year": 2022,
+      "yearly_mean": 0.6103429373597297
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "year": 2023,
+      "yearly_mean": 0.4780041364525363
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "year": 2024,
+      "yearly_mean": 0.5728091331973924
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "year": 2025,
+      "yearly_mean": 0.5487703962594686
+    },
+    {
+      "parameter": "Suspended Sediment Concentration",
+      "year": 2026,
+      "yearly_mean": 0.41928259627501124
+    },
+    {
+      "parameter": "Turbidity",
+      "year": 2016,
+      "yearly_mean": 0.15130425802644407
+    },
+    {
+      "parameter": "Turbidity",
+      "year": 2017,
+      "yearly_mean": 0.111796238787577
+    },
+    {
+      "parameter": "Turbidity",
+      "year": 2018,
+      "yearly_mean": 0.20720879036579457
+    },
+    {
+      "parameter": "Turbidity",
+      "year": 2019,
+      "yearly_mean": 0.12932757054047764
+    },
+    {
+      "parameter": "Turbidity",
+      "year": 2020,
+      "yearly_mean": 0.13204289750940915
+    },
+    {
+      "parameter": "Turbidity",
+      "year": 2021,
+      "yearly_mean": 0.22486289295943243
+    },
+    {
+      "parameter": "Turbidity",
+      "year": 2022,
+      "yearly_mean": 0.20982176780512857
+    },
+    {
+      "parameter": "Turbidity",
+      "year": 2023,
+      "yearly_mean": 0.22223939845265953
+    },
+    {
+      "parameter": "Turbidity",
+      "year": 2024,
+      "yearly_mean": 0.1747762699471367
+    },
+    {
+      "parameter": "Turbidity",
+      "year": 2025,
+      "yearly_mean": 0.21028153583520107
+    },
+    {
+      "parameter": "Turbidity",
+      "year": 2026,
+      "yearly_mean": 0.21615845410093862
+    }
+  ]
+}
